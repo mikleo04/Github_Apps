@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub•Apps</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_satu">Followers</string>
+    <string name="tab_dua">Following</string>
+    <string name="menu_1">Informasi</string>
+    <string name="menu_3">Setting</string>
+    <string name="this_setting">Layanan setting masih dalam pengembangan</string>
+    <string name="this_informasi">Ini adalah layanan informasi</string>
+    <string name="search">Search</string>
+    <string name="menu_2">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="photo_profile">photo profile</string>
+</resources>
